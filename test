@@ -1,0 +1,5 @@
+8 # Number of rows
+8 # Number of columns
+[(1, 0), (2, 0), (2, 7), (4, 1), (4, 2), (4, 4), (5, 0), (5, 1), (5, 3), (6, 1), (6, 3), (6, 5), (7, 5), (7, 6), (7, 7)] # List of block locations
+(6, 2) # Where the ball starts
+(2, 6) # Goal location
